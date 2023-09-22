@@ -9,6 +9,9 @@ __pycache__/
 # training data
 local_training_data
 
+# models
+*.pth
+
 # Distribution / packaging
 .Python
 build/
