@@ -12,6 +12,9 @@ local_training_data
 # models
 *.pth
 
+# mac
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
