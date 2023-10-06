@@ -7,7 +7,8 @@ __pycache__/
 *.so
 
 # training data
-local_training_data
+local_training_data/
+trained_models/
 
 # models
 *.pth
