@@ -12,6 +12,7 @@ trained_models/
 
 # models
 *.pth
+*.pt
 
 # mac
 .DS_Store
