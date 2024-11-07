@@ -1,0 +1,13 @@
+scikit-learn
+pandas
+numpy
+tensorflow
+tensorflow-macos
+tensorflow-metal
+keras
+keras-nlp
+matplotlib
+jupyter
+torch
+torchvision
+torchaudio

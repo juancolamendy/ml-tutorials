@@ -9,6 +9,7 @@ __pycache__/
 # training data
 local_training_data/
 trained_models/
+datasets/
 
 # models
 *.pth
