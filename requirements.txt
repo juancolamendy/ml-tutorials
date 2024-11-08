@@ -12,3 +12,4 @@ jupyter
 torch
 torchvision
 torchaudio
+transformers
