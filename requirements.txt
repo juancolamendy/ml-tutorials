@@ -1,4 +1,4 @@
-urllib3
+urllib3==1.26.16
 scikit-learn
 pandas
 numpy
@@ -13,3 +13,9 @@ torch
 torchvision
 torchaudio
 transformers
+accelerate
+evaluate
+datasets
+peft
+pillow
+requests
